@@ -29,6 +29,6 @@ public class Customer {
     public String toString() {
         return "Customer: " +
                   name +
-                " address: " + address;
+                ", Address: " + address;
     }
 }
